@@ -37,12 +37,12 @@ brew install docker
 docker-compose up --build
 ```
 
-6. Access the application by visiting :
+6. Clone the frontend by checking [this](https://github.com/ankitdani/medical-services-frontend) GitHub repository.
+
+7. Access the application by visiting :
 ```
 http://localhost:8080
 ```
-
-7. Clone the frontend by checking [this](https://github.com/ankitdani/medical-services-frontend) GitHub repository.
 
 ## Contributing:
 
