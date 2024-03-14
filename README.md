@@ -56,7 +56,9 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the [MIT License](https://github.com/ankitdani/medical-services-backend?tab=MIT-1-ov-file) - see the LICENSE file for details.
+
+Please feel free to contact me for any issues OR for discussion of future scope at [ankitdani1997@gmail.com](ankitdani1997@gmail.com)
 
 ## Acknowledgements
 
