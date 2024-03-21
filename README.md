@@ -1,6 +1,6 @@
 # Health Map : Real-Time Hospital Locator for AETNA Insurance Holders
 
-A web application developed to display real-time hospital locations that accept AETNA insurance using Google Places API. It provides interactive location-based information for users to explore hospitals and their related details.
+A web application developed to display real-time hospital locations that accept AETNA insurance using Google Places API. It provides interactive location-based information for users to explore hospitals and their related details. [Demo](https://github.com/ankitdani/medical-services-frontend/tree/main/Screenshots%20and%20demo/Demo)
 
 ## Features
 
