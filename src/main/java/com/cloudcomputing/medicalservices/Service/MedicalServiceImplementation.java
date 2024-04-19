@@ -19,7 +19,7 @@ public class MedicalServiceImplementation implements MedicalServiceService {
 
         String uriBase = "https://maps.googleapis.com/maps/api/place/textsearch/json?query=";
         uriBase += query;
-        uriBase += "&key=AIzaSyD2imNdPWut-NGTrdGh2f4vLNtquf8d9jY";
+        uriBase += "&key=<YOUR_API_KEY>";
         RestClient restClient = RestClient.create();
         String result = restClient.get()
                 .uri(uriBase)
